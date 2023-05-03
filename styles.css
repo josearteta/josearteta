@@ -1,0 +1,39 @@
+/* General styles */
+body {
+    font-family: 'Amazon Ember Regular', sans-serif;
+    line-height: 1.6;
+    color: #1E2125;
+    background-color: #F1F3F2;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Amazon Ember Display Heavy', sans-serif;
+    margin-bottom: 10px;
+}
+
+/* Header */
+header {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: #232E3E;
+}
+
+header h1 {
+    font-size: 36px;
+    color: #F09A18;
+}
+
+/* Main */
+main {
+    width: 80%;
+    margin: 50px auto;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #232F3D;
+    color: #F1F3F2;
+}
